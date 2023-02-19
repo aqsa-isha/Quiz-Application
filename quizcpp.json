@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Q1: Web is a huge collection 0f ________ of information linked to each other around the globe.",
+        "a": " pages",
+        "b": " websites",
+        "c": " html",
+        "d": " None of the above",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q2: ________ is known as the father of World Wide Web.",
+        "a": " John T. Thomson",
+        "b": " Dinis Ritchie",
+        "c": " Tim Berners-Lee",
+        "d": " None of the above",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q3: ________ is a set of rules; that is used to communicate applications to each other.",
+        "a": " HTML",
+        "b": " Website",
+        "c": " Protocol",
+        "d": " XML",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q4: ________ is the Primary protocol used to distribute information on the web.",
+        "a": " TCP/IP",
+        "b": " HTTP",
+        "c": " FTP",
+        "d": " Telnet",
+        "ans": "ans2"
+    },
+    {
+        "question": "Q5: All the components which are visible in website are ________.",
+        "a": " objects",
+        "b": " lists",
+        "c": " files",
+        "d": " classes",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q6: There are _______ types of web team.",
+        "a": " three",
+        "b": " four",
+        "c": " one",
+        "d": " two",
+        "ans": "ans4"
+    },
+    {
+        "question": "Q7: Category of web sites are ________.",
+        "a": " corporate type website",
+        "b": " individual website",
+        "c": " both A and B",
+        "d": " None of the above",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q8: ________ creates the look and feel of the site.",
+        "a": " Creative Lead",
+        "b": " Programmer ",
+        "c": " Analyst",
+        "d": " Designer",
+        "ans": "ans4"
+    },
+    {
+        "question": "Q9: What does HTML stand for?",
+        "a": " Hyper Text Preprocessor",
+        "b": " Hyper Text Markup Language",
+        "c": " Hyper Tool Multiple Language",
+        "d": " Hyper Tool Multi Language ",
+        "ans": "ans2"
+    },
+    {
+        "question": "Q10: What does CSS stand for?",
+        "a": " Cascading Style Sheet",
+        "b": " Colorful Style Sheet",
+        "c": " Computer Style Sheet",
+        "d": " Common Style Sheet",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q11: What does XML stands for?",
+        "a": " eXecutable Markup Language",
+        "b": " eXtra Multi-program Language",
+        "c": " eXtensible Markup Language",
+        "d": " eXamine Multiple Language",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q12: What does PHP stand for?",
+        "a": " Hypertext Programming",
+        "b": " Hypertext preprogramming",
+        "c": " Hypertext Preprocessor",
+        "d": " None of the above",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q13: What does SQL stand for?",
+        "a": " Stylish Question Language",
+        "b": " Statement Query Language",
+        "c": " Structured Question Language",
+        "d": " None of the above",
+        "ans": "ans4"
+    },
+    {
+        "question": "Q14: Which one of the following language dynamically create pages on a web server.?",
+        "a": " HTML",
+        "b": " PHP",
+        "c": " JavaScript",
+        "d": " None of the above",
+        "ans": "ans2"
+    },
+    {
+        "question": "Q15: Which one of the following language dynamically create interactive and programmable web pages?",
+        "a": " C",
+        "b": " C++",
+        "c": " JavaScript",
+        "d": " None of the above",
+        "ans": "ans3"
+    }
+]
